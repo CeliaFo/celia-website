@@ -1,0 +1,46 @@
+body {
+    background-color: #f3e6c6;  /* 复古米黄色 */
+    font-family: Georgia, serif;
+    color: #2b2b2b;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #5a4632;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.profile {
+    width: 140px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #6b5b4b;
+}
+
+.welcome {
+    margin-top: 20px;
+}
+
+.quote {
+    margin-top: 40px;
+    font-style: italic;
+    color: #4a3b2c;
+    border-left: 3px solid #a88c6a;
+    padding-left: 12px;
+}
